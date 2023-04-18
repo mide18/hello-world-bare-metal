@@ -7,5 +7,5 @@ app.get("/", (req,res)=> {
 
 // to debug if the app is running
 app.listen(8080, ()=>
-console.log("Hi, Hello World!")
+console.log("App is listening on port 8080")
 )

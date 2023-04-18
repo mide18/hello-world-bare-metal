@@ -1,0 +1,23 @@
+{
+  "name": "hello-world-bare-metal",
+  "version": "1.0.0",
+  "description": "Simple app deployed on a bare metal",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mide18/hello-world-bare-metal.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mide18/hello-world-bare-metal/issues"
+  },
+  "homepage": "https://github.com/mide18/hello-world-bare-metal#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
