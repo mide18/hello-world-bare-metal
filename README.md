@@ -1,6 +1,6 @@
 ## Simple app deployed on a bare metal
 
-### What is Bare Metal
+## Introduction to Bare metal and app dependencies installation
 ** Bare metal means that your application is running on the same OS as the hardware/server i.e. no other OS between the application running and hardware.
 ### npm initialize
 * This is the initializer used to create package.json for the simple app, to app build
