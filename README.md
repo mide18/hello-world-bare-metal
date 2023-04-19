@@ -10,7 +10,7 @@ npm init -y
 npm install express
 ```
 ## Run the application
-* This is used to run the application.
+* This is use to run the application.
 ```
 node app.js
 ```
