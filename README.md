@@ -37,5 +37,6 @@ git clone https://github.com/mide18/hello-world-bare-metal.git​
 node app.js
 ```
 * This app keeps running whilst the node app.js is running and Control + C can be used to KILL the process from running. Below is the url link to this application running on port 8080;​
-
-url: 3.16.69.95:8080
+``
+3.16.69.95:8080
+``
