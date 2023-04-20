@@ -36,7 +36,7 @@ sudo yum install nodejs -y​
 git clone https://github.com/mide18/hello-world-bare-metal.git​
 ```
 
-* To start the application running on bare metal after cloning the app and dependencies; move to the directory of the application and run: ​
+* To start the application running on bare metal after cloning the app and dependencies; navigate to the directory of the application and run: ​
 ```
 node app.js
 ```
